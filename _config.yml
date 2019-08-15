@@ -1,1 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
+aux_links:
+    "Cheatsheet on GitHub":
+      - "//github.com/Stwissel/cheatsheets"
+footer_content: "Copyright &copy; 2019 @NotesSensei"

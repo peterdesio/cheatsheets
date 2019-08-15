@@ -3,6 +3,7 @@ layout: default
 title: VSCode Setup
 nav_order: 2
 ---
+
 # Visual Studio Code
 
 One time setup for plugings I use
@@ -33,7 +34,7 @@ One time setup for plugings I use
 - Peacock
 - Remote WSL
 - vscode-icons
-- Wallaby.js ($$)
+- Wallaby.js (\$\$)
 - XML Tools
 
 ## Font
