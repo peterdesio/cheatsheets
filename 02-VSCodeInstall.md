@@ -1,4 +1,5 @@
 ---
+layout: default
 title: VSCode Setup
 nav_order: 2
 ---
