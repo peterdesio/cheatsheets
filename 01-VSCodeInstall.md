@@ -22,6 +22,7 @@ One time setup for plugings I use
 - Test Explorer UI
 - TSLint
 - YAML
+- Jest (by Orta)
 
 ## Optional
 
