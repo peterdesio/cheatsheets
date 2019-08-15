@@ -1,3 +1,7 @@
+---
+title: VSCode Setup
+nav_order: 2
+---
 # Visual Studio Code
 
 One time setup for plugings I use

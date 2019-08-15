@@ -1,4 +1,8 @@
-# Projects using NodeJS in any way
+---
+title: NodeJS
+nav_order: 3
+---
+ Projects using NodeJS in any way
 
 ## General flow
 
